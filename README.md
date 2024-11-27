@@ -18,6 +18,17 @@
 
 * ![image](https://github.com/user-attachments/assets/8a2892e2-d8f5-48cb-a01e-be95a7fc358e)
 
+![image](https://github.com/user-attachments/assets/91ae8666-6a70-4708-aa0f-92e6c63d8301)
+
+
 ![image](https://github.com/user-attachments/assets/0324722e-9248-4091-be73-7b8c45f32ef4)
 
 ![image](https://github.com/user-attachments/assets/d0d094f2-8bfb-4184-90f6-75c271ac4039)
+
+
+#### In Our Example reading the CSV and writing into the DB using batch
+
+![image](https://github.com/user-attachments/assets/49b3ad07-c89b-40bb-8f36-c72217855780)
+
+
+
