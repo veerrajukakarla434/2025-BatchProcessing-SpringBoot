@@ -32,3 +32,5 @@
 
 
 #### working ref : https://github.com/Java-Techie-jt/spring-batch-3.0/blob/main/README.md
+
+![image](https://github.com/user-attachments/assets/0f9749de-1d97-4a58-a922-d5139c3397de)
